@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use or reference this work, please cite it as below."
+title: "Neuro-reactive Multimodal Metacognition: A Founding Position Paper"
+version: "0.1.0"
+date-released: "2026-05-01"
+authors:
+  - family-names: "Warren"
+    given-names: "Sierra N."
+abstract: "This founding position paper introduces Neuro-reactive Multimodal Metacognition (NMM), a proposed framework for intelligent systems that monitor their own reasoning quality across multiple data modalities while adapting to inferred user mental state, stress, attention, or engagement."
+keywords:
+  - artificial intelligence
+  - multimodal AI
+  - metacognition
+  - affective computing
+  - human-in-the-loop AI
+  - cognitive architecture
+  - AI governance
+  - neuro-reactive systems
+license: "CC-BY-NC-ND-4.0"
